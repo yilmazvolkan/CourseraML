@@ -12,7 +12,7 @@ where the hypothesis h(x) is given by the linear model:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/hypothesis.png" width="200" height="30">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/hypothesis.png" width="200" height="35">
 </p>
 
 
