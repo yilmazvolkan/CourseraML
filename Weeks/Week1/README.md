@@ -4,7 +4,7 @@ The objective of linear regression is to minimize the cost function:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/costFunc.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/costFunc.png" width="250" height="70">
 </p>
 
 
@@ -12,7 +12,7 @@ where the hypothesis h(x) is given by the linear model:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/hypothesis.png" width="200" height="40">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/hypothesis.png" width="200" height="30">
 </p>
 
 
