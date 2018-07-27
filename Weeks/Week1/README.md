@@ -57,7 +57,7 @@ To compare how different learning learning rates affect convergence, it's helpfu
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/learningRates.png" width="400" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/learningRates.png" width="500" height="500">
 </p>
 
 
