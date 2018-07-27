@@ -77,7 +77,7 @@ Gradient descent gives one way of minimizing J. In the normal equation method, w
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/normalEqu.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/normalEqu.png" width="250" height="40">
 </p>
 
 
@@ -85,5 +85,5 @@ In Octave, pinv() function makes sure to take inverse.
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/normalCode.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/normalCode.png" width="250" height="40">
 </p>
