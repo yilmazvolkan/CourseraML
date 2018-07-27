@@ -57,7 +57,7 @@ To compare how different learning learning rates affect convergence, it's helpfu
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/learningRates.png" width="500" height="400">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/learningRates.png" width="450" height="350">
 </p>
 
 
@@ -77,7 +77,7 @@ Gradient descent gives one way of minimizing J. In the normal equation method, w
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/normalEqu.png" width="250" height="40">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/normalEqu.png" width="200" height="40">
 </p>
 
 
