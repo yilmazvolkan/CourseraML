@@ -47,7 +47,7 @@ Gradient descent helps to estimate the parameters in the hypothesis function. Th
 This method works for linear regression with one variable however if we have multiple variable we must use multivariate linear regression and the gradient descent should look like with vectorized version:
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/vectorizedGradient.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/vectorizedGradient.png" width="450" height="80">
 </p>
 
 
@@ -57,7 +57,7 @@ To compare how different learning learning rates affect convergence, it's helpfu
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/learningRates.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/learningRates.png" width="400" height="80">
 </p>
 
 
