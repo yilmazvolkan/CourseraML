@@ -12,7 +12,7 @@ where the hypothesis h(x) is given by the linear model:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/hypothesis.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/hypothesis.png" width="200" height="40">
 </p>
 
 
@@ -20,7 +20,7 @@ Simply, hp is the predicted value and from predicted value, we can compute the s
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/costCode.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/costCode.png" width="450" height="150">
 </p>
 
 
