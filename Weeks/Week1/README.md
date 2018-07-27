@@ -67,7 +67,7 @@ Some features might be 1000 times more than others and when features dier by ord
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/featureNormalization.png" width="450" height="150">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/featureNormalization.png" width="380" height="120">
 </p>
 
 
