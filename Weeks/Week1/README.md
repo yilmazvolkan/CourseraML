@@ -39,6 +39,11 @@ Gradient descent helps to estimate the parameters in the hypothesis function. Th
 </p>
 
 
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/thetaCode.png" width="250" height="80">
+</p>
+
+
 This method works for linear regression with one variable however if we have multiple variable we must use multivariate linear regression and the gradient descent should look like with vectorized version:
 
 <p align="center">
@@ -51,7 +56,9 @@ This method works for linear regression with one variable however if we have mul
 To compare how different learning learning rates affect convergence, it's helpful to plot J for several learning rates on the same figure. We select alpha, the learning rate equals to 1 denoted by blue and others are the results from division by 10,100,1000. It is clearly seen the learning rate 1 converges quickly than others and it the optimal alpha value. 
 
 
-
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/learningRates.png" width="250" height="80">
+</p>
 
 
 ### Feature Normalization
@@ -59,10 +66,24 @@ To compare how different learning learning rates affect convergence, it's helpfu
 Some features might be 1000 times more than others and when features dier by orders of magnitude, first performing feature scaling can make gradient descent converge much more quickly. We should subtract the mean value first, then divide the result by standard deviation for each feature. 
 
 
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/featureNormalization.png" width="250" height="80">
+</p>
+
+
 ### Normal Equation
 
 Gradient descent gives one way of minimizing J. In the normal equation method, we will minimize J by explicitly taking its derivatives with respect to the (theta j)’s and setting them to zero. We do not need to choose alfa and do not need to iterate. This approach is slow if the n the number of features is very large. The normal equation of theta is:
 
+
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/normalEqu.png" width="250" height="80">
+</p>
+
+
 In Octave, pinv() function makes sure to take inverse.
 
- 
+
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/normalCode.png" width="250" height="80">
+</p>
