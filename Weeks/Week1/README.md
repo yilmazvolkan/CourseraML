@@ -4,7 +4,7 @@ The objective of linear regression is to minimize the cost function:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/costFunc.png" width="540" height="240">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/costFunc.png">
 </p>
 
 
