@@ -30,17 +30,17 @@ Gradient descent helps to estimate the parameters in the hypothesis function. Th
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/theta.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/theta.png" width="150" height="40">
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/computeTheta.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/computeTheta.png" width="450" height="40">
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/thetaCode.png" width="250" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/thetaCode.png" width="450" height="150">
 </p>
 
 
