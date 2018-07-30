@@ -60,11 +60,11 @@ Regularized Cost Function:
 </p>
 
 
-## Regularized Gradient:
+## Regularized Gradient:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/6.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/7.png" width="450" height="160">
 </p>
 
 
@@ -72,7 +72,7 @@ We can implement both;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/7.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/8.png" width="450" height="160">
 </p>
 
 
