@@ -1,4 +1,4 @@
-## K-means Clustering and Principal Component Analysis
+## K-means Clustering and Principal Component Analysis
 
 
 We will implement the K-means clustering algorithm and apply it to compress an image. In the second part, you will use principal component analysis to nd a low-dimensional representation of face images.
@@ -11,7 +11,7 @@ The intuition behind K-means is an iterative procedure that starts by guessing t
 </p>
 
 
-## Finding closest centroids
+## Finding closest centroids
 
 
 In the “cluster assignment" phase of the K-means algorithm, the algorithm assigns every training example x(i) to its closest centroid, given the current positions of centroids. K is the number of the centroids.
