@@ -57,7 +57,7 @@ We already calculate the yk and a3 and we can use them here.
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week4/Res/7.png" width="500" height="120">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week4/Res/7.png" width="500" height="100">
 </p>
 
 
@@ -65,7 +65,7 @@ Thirdly,  we compute the delta 2 according to given backpropagation formula. sig
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week4/Res/8.png" width="550" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week4/Res/8.png" width="550" height="120">
 </p>
 
 
