@@ -64,7 +64,7 @@ Regularized Gradient:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/7.png" width="600" height="190">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/7.png" width="450" height="140">
 </p>
 
 
@@ -72,7 +72,7 @@ We can implement both;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/8.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/8.png" width="450" height="200">
 </p>
 
 
