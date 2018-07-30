@@ -22,7 +22,7 @@ We can compute the regularized cost function directly:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week4/Res/3.png" width="550" height="200">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week4/Res/3.png" width="350" height="200">
 </p>
 
 
