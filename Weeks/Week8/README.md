@@ -56,7 +56,7 @@ Regularized Cost Function:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/5.png" width="600" height="190">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/5.png" width="500" height="140">
 </p>
 
 
