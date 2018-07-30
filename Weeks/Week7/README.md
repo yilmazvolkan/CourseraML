@@ -51,7 +51,7 @@ After computing the covariance matrix, you can run SVD on it to compute the prin
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/5.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/5.png" width="250" height="80">
 </p>
 
 
@@ -59,7 +59,7 @@ The script will also output the top principal component (eigenvector) found, and
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/6.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/6.png" width="550" height="230">
 </p>
 
 
