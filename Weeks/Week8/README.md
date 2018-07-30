@@ -39,7 +39,7 @@ The code section to implement this is below;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/4.png" width="600" height="270">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/4.png" width="600" height="290">
 </p>
 
 
