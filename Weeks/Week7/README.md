@@ -59,7 +59,7 @@ The script will also output the top principal component (eigenvector) found, and
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/6.png" width="550" height="250">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/6.png" width="550" height="270">
 </p>
 
 
