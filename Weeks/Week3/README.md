@@ -5,7 +5,7 @@ Computing the cost and gradient for logistic regression with regularization.
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/1.png" width="350" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/1.png" width="450" height="160">
 </p>
 
 
@@ -16,7 +16,7 @@ ONEVSALL trains multiple(num_labels) logistic regression classifiers and returns
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/2.png" width="350" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/2.png" width="450" height="80">
 </p>
 
 
@@ -28,7 +28,7 @@ One-vs-all prediction function will pick the class for which the corresponding l
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/3.png" width="230" height="50">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/3.png" width="330" height="50">
 </p>
 
 
@@ -39,7 +39,7 @@ p = PREDICTONEVSALL(all_theta, X) will return a vector of predictions for each e
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/4.png" width="300" height="300">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/4.png" width="450" height="300">
 </p>
 
 
