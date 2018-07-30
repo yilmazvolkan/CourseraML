@@ -1,0 +1,39 @@
+## Sigmoid Function
+
+It does not make sense for the hypothesis function h(theta)(x) to take values larger than 1 or smaller than zero when we know y is 0 or 1. We need to change the form for our hypothesis h(theta)(x) to satisfy 0<=h(theta)(x)<=1. The sigmoid function makes sure about this:
+
+We can implement it directly:
+
+
+## Cost Function and Gradient
+
+We cannot use the same cost function that we use for linear regression because the logistic function(sigmoid) will cause the output to be wavy which is it has many local optima. The cost function is:
+
+We can implement it by;
+
+First we apply the sigmoid function to X*theta then apply the formula for the cost function. For gradient of the cost function  we can compute it by;
+
+
+
+## Prediction
+
+The predict function will produce “1" or “0" predictions given a dataset and a learned parameter vector theta.
+
+
+## Regularized Logistic Regression
+
+Simply regularization is adding more features to fit better. Lambda is our regularization parameter. It determines how much the costs our theta parameters are inflated. We can smooth the output of out hypothesis function to reduce the overfitting. 
+
+The last terms that we added performs our regularization. The gradient of the cost function is:
+
+
+
+We can obtain regularization by;
+
+We add extra bias and regularization sum.
+
+If we decrease lambda 1 to 0, obviously the classifier gets almost every training example correct, but draws a very complicated boundary, thus overfitting the data. Train accuracy : 86.44%
+
+With a larger lambda, it can be seen that the plot that shows a simpler decision boundary which still separates the positives and negatives fairly well. However, if lambda is set to too high a value, you will not get a good fit and the decision boundary will not follow the data so well, thus underfitting the data. Train accuracy : 74.57%
+
+
