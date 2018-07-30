@@ -32,7 +32,7 @@ grad(1) makes sure we did not add regularization for the first time.
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/4.png" width="500" height="290">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/4.png" width="500" height="320">
 </p>
 
 
@@ -46,7 +46,7 @@ We can compute each X polynomial feature like x, x^2,x^3 etc.
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/5.png" width="250" height="40">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/5.png" width="200" height="40">
 </p>
 
 
@@ -65,7 +65,7 @@ This function basically computes train and validation set error according to dif
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/7.png" width="500" height="260">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/7.png" width="500" height="320">
 </p>
 
 
