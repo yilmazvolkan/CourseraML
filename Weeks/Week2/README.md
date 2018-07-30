@@ -4,7 +4,7 @@ It does not make sense for the hypothesis function h(theta)(x) to take values la
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/1.png" width="140" height="35">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/1.png" width="130" height="35">
 </p>
 
 
@@ -12,7 +12,7 @@ We can implement it directly:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/2.png" width="140" height="35">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/2.png" width="160" height="35">
 </p>
 
 
