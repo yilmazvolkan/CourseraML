@@ -31,5 +31,5 @@ To find best parameter C;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/3.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/3.png" width="250" height="100">
 </p>
