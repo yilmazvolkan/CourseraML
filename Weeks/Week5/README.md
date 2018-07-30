@@ -24,7 +24,7 @@ We can compute the gradient by;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/3.png" width="500" height="260">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/3.png" width="500" height="160">
 </p>
 
 
