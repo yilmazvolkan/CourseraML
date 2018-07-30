@@ -60,7 +60,7 @@ Simply regularization is adding more features to fit better. Lambda is our regul
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/7.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/7.png" width="450" height="70">
 </p>
 
 
@@ -68,7 +68,7 @@ The last terms that we added performs our regularization. The gradient of the co
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/8.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/8.png" width="450" height="70">
 </p>
 
 
@@ -76,7 +76,7 @@ We can obtain regularization by;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/9.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/9.png" width="450" height="120">
 </p>
 
 
@@ -86,7 +86,7 @@ If we decrease lambda 1 to 0, obviously the classifier gets almost every trainin
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/11.png" width="400" height="350">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/11.png" width="400" height="330">
 </p>
 
 
@@ -94,5 +94,5 @@ With a larger lambda, it can be seen that the plot that shows a simpler decision
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/12.png" width="400" height="350">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/12.png" width="400" height="330">
 </p>
