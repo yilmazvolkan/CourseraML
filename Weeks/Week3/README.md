@@ -16,7 +16,7 @@ ONEVSALL trains multiple(num_labels) logistic regression classifiers and returns
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/2.png" width="450" height="80">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/2.png" width="450" height="100">
 </p>
 
 
@@ -28,7 +28,7 @@ One-vs-all prediction function will pick the class for which the corresponding l
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/3.png" width="330" height="50">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/3.png" width="330" height="80">
 </p>
 
 
