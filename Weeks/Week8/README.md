@@ -64,7 +64,7 @@ Regularized Gradient:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/7.png" width="450" height="140">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/7.png" width="420" height="140">
 </p>
 
 
