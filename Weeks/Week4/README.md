@@ -13,7 +13,7 @@ And our network should look like this:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week4/Res/2.png" width="350" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week4/Res/2.png" width="450" height="250">
 </p>
 
 
