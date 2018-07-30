@@ -46,7 +46,7 @@ We can compute each X polynomial feature like x, x^2,x^3 etc.
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/5.png" width="200" height="40">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/5.png" width="220" height="50">
 </p>
 
 
