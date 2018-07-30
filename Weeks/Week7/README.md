@@ -18,7 +18,7 @@ In the “cluster assignment" phase of the K-means algorithm, the algorithm assi
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/2.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/2.png" width="350" height="100">
 </p>
 
 
@@ -29,7 +29,7 @@ Go over every centroid and compute mean of all points that belong to it. Concret
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/3.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/3.png" width="350" height="100">
 </p>
 
 
@@ -43,7 +43,7 @@ To perform dimensionality reduction. First, you should compute the covariance ma
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/4.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/4.png" width="220" height="60">
 </p>
 
 
@@ -106,5 +106,5 @@ To understand what is lost in the dimension reduction, you can recover the data 
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/10.png" width="660" height="350">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/10.png" width="660" height="340">
 </p>
