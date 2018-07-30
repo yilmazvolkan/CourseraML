@@ -39,7 +39,7 @@ p = PREDICTONEVSALL(all_theta, X) will return a vector of predictions for each e
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/4.png" width="450" height="300">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/4.png" width="400" height="300">
 </p>
 
 
@@ -47,6 +47,6 @@ Ones for bias units. We can apply the feedforward propagation directly;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/5.png" width="280" height="300">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week3/Res/5.png" width="450" height="300">
 </p>
 
