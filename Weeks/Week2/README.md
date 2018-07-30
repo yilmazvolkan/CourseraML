@@ -2,25 +2,52 @@
 
 It does not make sense for the hypothesis function h(theta)(x) to take values larger than 1 or smaller than zero when we know y is 0 or 1. We need to change the form for our hypothesis h(theta)(x) to satisfy 0<=h(theta)(x)<=1. The sigmoid function makes sure about this:
 
+
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/1.png" width="250" height="70">
+</p>
+
+
 We can implement it directly:
+
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/2.png" width="250" height="70">
+</p>
 
 
 ## Cost Function and Gradient
 
 We cannot use the same cost function that we use for linear regression because the logistic function(sigmoid) will cause the output to be wavy which is it has many local optima. The cost function is:
 
+
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/3.png" width="250" height="70">
+</p>
+
+
 We can implement it by;
+
+
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/4.png" width="250" height="70">
+</p>
+
 
 First we apply the sigmoid function to X*theta then apply the formula for the cost function. For gradient of the cost function  we can compute it by;
 
 
+<p align="center">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week1/Res/5.png" width="250" height="70">
+</p>
+
 
 ## Prediction
 
+
 The predict function will produce “1" or “0" predictions given a dataset and a learned parameter vector theta.
 
+## Regularized Logistic Regression
 
-## Regularized Logistic Regression
 
 Simply regularization is adding more features to fit better. Lambda is our regularization parameter. It determines how much the costs our theta parameters are inflated. We can smooth the output of out hypothesis function to reduce the overfitting. 
 
