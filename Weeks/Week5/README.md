@@ -32,7 +32,7 @@ grad(1) makes sure we did not add regularization for the first time.
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/4.png" width="500" height="260">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/4.png" width="500" height="290">
 </p>
 
 
