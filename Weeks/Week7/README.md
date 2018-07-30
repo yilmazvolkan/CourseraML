@@ -7,7 +7,7 @@ The intuition behind K-means is an iterative procedure that starts by guessing t
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/1.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/1.png" width="450" height="200">
 </p>
 
 
@@ -106,5 +106,5 @@ To understand what is lost in the dimension reduction, you can recover the data 
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/10.png" width="660" height="330">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/10.png" width="660" height="350">
 </p>
