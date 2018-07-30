@@ -18,7 +18,7 @@ In the “cluster assignment" phase of the K-means algorithm, the algorithm assi
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/2.png" width="350" height="100">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/2.png" width="400" height="120">
 </p>
 
 
@@ -29,7 +29,7 @@ Go over every centroid and compute mean of all points that belong to it. Concret
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/3.png" width="350" height="100">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/3.png" width="400" height="120">
 </p>
 
 
