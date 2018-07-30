@@ -95,7 +95,7 @@ The original data points are indicated with the blue circles, while the projecte
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/9.png" width="550" height="250">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/9.png" width="480" height="250">
 </p>
 
 
