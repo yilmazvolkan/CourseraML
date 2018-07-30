@@ -4,7 +4,7 @@ It does not make sense for the hypothesis function h(theta)(x) to take values la
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/1.png" width="150" height="35">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/1.png" width="140" height="35">
 </p>
 
 
@@ -12,7 +12,7 @@ We can implement it directly:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/2.png" width="150" height="35">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/2.png" width="140" height="35">
 </p>
 
 
@@ -86,7 +86,7 @@ If we decrease lambda 1 to 0, obviously the classifier gets almost every trainin
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/10.png" width="400" height="400">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/11.png" width="400" height="350">
 </p>
 
 
@@ -94,5 +94,5 @@ With a larger lambda, it can be seen that the plot that shows a simpler decision
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/11.png" width="400" height="400">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/12.png" width="400" height="350">
 </p>
