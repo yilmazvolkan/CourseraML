@@ -5,7 +5,7 @@ Regularized linear cost function can be computed as follows;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/1.png" width="400" height="100">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/1.png" width="400" height="80">
 </p>
 
 
@@ -13,7 +13,7 @@ The code section for this formula is:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/2.png" width="500" height="200">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week5/Res/2.png" width="500" height="170">
 </p>
 
 
