@@ -17,7 +17,7 @@ The formula for the variance and mean are:
 
 			
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/2.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/2.png" width="600" height="190">
 </p>
 
 
@@ -31,7 +31,7 @@ The function selectThreshold should return two values; the first is the selected
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/3.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/3.png" width="600" height="190">
 </p>
 
 
