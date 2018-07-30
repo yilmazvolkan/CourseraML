@@ -21,7 +21,7 @@ The formula for the variance and mean are:
 </p>
 
 
-## Selecting the threshold
+## Selecting the threshold
 
 
 SELECTTHRESHOLD(yval, pval) finds the best threshold to use for selecting outliers based on the results from a validation set (pval) and the ground truth (yval).
@@ -60,7 +60,7 @@ Regularized Cost Function:
 </p>
 
 
-## Regularized Gradient:
+Regularized Gradient:
 
 
 <p align="center">
