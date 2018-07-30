@@ -6,7 +6,7 @@ The data looks like this:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/1.png" width="430" height="390">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week8/Res/1.png" width="400" height="360">
 </p>
 
 
