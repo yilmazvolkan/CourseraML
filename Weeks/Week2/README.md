@@ -4,7 +4,7 @@ It does not make sense for the hypothesis function h(theta)(x) to take values la
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/1.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/1.png" width="150" height="35">
 </p>
 
 
@@ -12,7 +12,7 @@ We can implement it directly:
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/2.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/2.png" width="150" height="35">
 </p>
 
 
@@ -22,7 +22,7 @@ We cannot use the same cost function that we use for linear regression because t
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/3.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/3.png" width="450" height="70">
 </p>
 
 
