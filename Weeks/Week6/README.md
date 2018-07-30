@@ -12,7 +12,7 @@ You can think of the Gaussian kernel as a similarity function that measures the 
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week6/Res/1.png" width="550" height="140">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week6/Res/1.png" width="600" height="140">
 </p>
 
 
