@@ -59,7 +59,7 @@ The script will also output the top principal component (eigenvector) found, and
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/6.png" width="550" height="230">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/6.png" width="550" height="250">
 </p>
 
 
@@ -76,7 +76,7 @@ projectData(X, U, K) computes the projection of  the normalized inputs X into th
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/7.png" width="450" height="160">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week7/Res/7.png" width="300" height="100">
 </p>
 
 
