@@ -30,7 +30,7 @@ We can implement it by;
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/4.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/4.png" width="350" height="100">
 </p>
 
 
@@ -38,7 +38,7 @@ First we apply the sigmoid function to X*theta then apply the formula for the co
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/5.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/5.png" width="320" height="70">
 </p>
 
 
@@ -49,7 +49,7 @@ The predict function will produce “1" or “0" predictions given a dataset and
 
 
 <p align="center">
-    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/6.png" width="250" height="70">
+    <img src="https://github.com/yilmazvolkan/CourseraML/blob/master/Weeks/Week2/Res/6.png" width="140" height="35">
 </p>
 
 
